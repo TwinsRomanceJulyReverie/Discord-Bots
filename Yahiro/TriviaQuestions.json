@@ -1,0 +1,1217 @@
+{
+    "questions": [
+        {
+            "question": "What is Sora's last name?",
+            "difficulty": "easy",
+            "1": "Amatsume",
+            "2": "Shiba",
+            "3": "Kasugano",
+            "4": "It is not stated",
+            "answer": "Kasugano"
+        },
+        {
+            "question": "What is Motoka last name?",
+            "difficulty": "medium",
+            "1": "Kasugano",
+            "2": "Yorihime",
+            "3": "Nogisaka",
+            "4": "Migiwa",
+            "answer": "Nogisaka"
+        },
+        {
+            "question": "What is Akira's last name?",
+            "difficulty": "easy",
+            "1": "Kasugano",
+            "2": "Amatsume",
+            "3": "She doesn't have one",
+            "4": "Yorihime",
+            "answer": "Amatsume"
+        },
+        {
+            "question": "What is Yahiro's last name?",
+            "difficulty": "hard",
+            "1": "Yorihime ",
+            "2": "Ifukube",
+            "3": "Migiwa",
+            "4": "Kasugano",
+            "answer" :"Ifukube"
+        },
+        {
+            "question": "What is Nao's last name?",
+            "difficulty": "medium",
+            "1": "Amatsume",
+            "2": "Yorihime",
+            "3": "Nogisaka",
+            "4": "It is never stated",
+            "answer": "Yorihime"
+        },
+        {
+            "question": "What is Kazuha's last name?",
+            "difficulty": "medium",
+            "1": "Migiwa",
+            "2": "Tatsuya",
+            "3": "Nogisaka",
+            "4": "Dola",
+            "answer": "Migiwa"
+        },
+        {
+            "question": "What is Class Rep's real name?",
+            "difficulty": "medium",
+            "1": "Kazuha",
+            "2": "Kozue",
+            "3": "Shiba",
+            "4": "It is not stated.",
+            "answer": "Kozue"
+        },
+        {
+            "question": "What is Class Rep's last name?",
+            "difficulty": "hard",
+            "1": "It is not stated",
+            "2": "Migiwa",
+            "3": "Ifukube",
+            "4": "Kuranaga",
+            "answer": "Kuranaga"
+        },
+        {
+            "question": "What is Ryouhei's last name?",
+            "difficulty": "hard",
+            "1": "Nakazato",
+            "2": "It is never stated",
+            "3": "Chikara",
+            "4": "Ifukube",
+            "answer": "Nakazato"
+        },
+        {
+            "question": "What is Haru's last name?",
+            "difficulty": "easy",
+            "1": "Kuranaga",
+            "2": "Nakazato",
+            "3": "Kasugano",
+            "4": "Migiwa",
+            "answer": "Kasugano"
+        },
+        {
+            "question": "Who gave Sora her stuffed bunny in the anime?",
+            "difficulty": "easy",
+            "1": "She bought it herself",
+            "2": "Haru",
+            "3": "Her father",
+            "4": "Her mother",
+            "answer": "her mother"
+        },
+        {
+            "question": "Who gave Sora her stuffed bunny in the manga?",
+            "difficulty": "hard",
+            "1": "Her Mother",
+            "2": "Haru",
+            "3": "It is not stated",
+            "4": "Ryouhei",
+            "answer": "Haru"
+        },
+        {
+            "question": "What is the relationship between Kazuha and Akira?",
+            "difficulty": "easy",
+            "1": "Sisters",
+            "2": "Possible lovers",
+            "3": "classmates",
+            "4": "All of the above",
+            "answer": "All of the above"
+        },
+        {
+            "question": "Why did Haru and Sora move back to the countryside?",
+            "difficulty": "easy",
+            "1": "To get away from the city",
+            "2": "Their parents died",
+            "3": "Summer break",
+            "4": "They always lived there",
+            "answer": "Their parents died"
+        },
+        {
+            "question": "Which girl is the shortest?",
+            "difficulty": "medium",
+            "1": "Akira",
+            "2": "Sora",
+            "3": "Class Rep",
+            "4": "Nao",
+            "answer": "Sora"
+        },
+        {
+            "question": "Which girl is the tallest?",
+            "difficulty": "medium",
+            "1": "Nao",
+            "2": "Yahiro",
+            "3": "Kazuha",
+            "4": "Motoka",
+            "answer": "Yahiro"
+        },
+        {
+            "question": "T/F the locations presented in YnS are based on real life locations?",
+            "difficulty": "hard",
+            "1": "True",
+            "2": "False",
+            "answer": "True"
+        },
+        {
+            "question": "Which girl is only an unlockable route in the VN?",
+            "difficulty": "medium",
+            "1": "Akira",        
+            "2": "Class Rep",
+            "3": "Sora",
+            "4": "They are all available by default",
+            "answer": "Sora"
+        },
+        {
+            "question": "How old is Sora implied to be?",
+            "difficulty": "medium",
+            "1": "16",
+            "2": "17",
+            "3": "18",
+            "4": "12",
+            "answer": "16"
+        },
+        {
+            "question": "How old is Akira implied to be?",
+            "difficulty": "medium",
+            "1": "14",
+            "2": "16",
+            "3": "17",
+            "4": "18",
+            "answer": "16"
+        },
+        {
+            "question": "How old is Nao implied to be?",
+            "difficulty": "hard",
+            "1": "16",
+            "2": "17",
+            "3": "18",
+            "4": "19",
+            "answer": "17"
+        },
+        {
+            "question": "How old is Ryouhei implied to be?",
+            "difficulty": "hard",
+            "1": "17",
+            "2": "18",
+            "3": "19",
+            "4": "30",
+            "answer": "17"
+        },
+        {
+            "question": "How old is Kazuha implIed to be?",
+            "difficulty": "hard",
+            "1": "16",
+            "2": "17",
+            "3": "18",
+            "4": "19",
+            "answer": "16"
+        },
+        {
+            "question": "How old is Class rep implied to be?",
+            "difficulty": "medium",
+            "1": "16",
+            "2": "17",
+            "3": "18",
+            "4": "30",
+            "answer": "16"
+        },
+        {
+            "question": "How old is Yahiro implied to be?",
+            "difficulty": "hard",
+            "1": "16",
+            "2": "17",
+            "3": "18",
+            "4": "28",
+            "answer": "28"
+        },
+        {
+            "question": "How old is Motoka implied to be?",
+            "difficulty": "hard",
+            "1": "16",
+            "2": "18",
+            "3": "20",
+            "4": "26",
+            "answer": "26"
+        },
+        {
+            "question": "Which Scandanavian country did Sora and Haru move to after the events of Yosuga no Sora?",
+            "difficulty": "hard",
+            "1": "Estonia",
+            "2": "Finland",
+            "3": "Sweden",
+            "4": "The exact country is not stated.",
+            "answer": "The exact country is not stated"
+        },
+        {
+            "question": "What year was the Yosuga no Sora VN released?",
+            "difficulty": "medium",
+            "1": "2007",
+            "2": "2008",
+            "3": "2009",
+            "4": "2010",
+            "answer": "2008"
+        },
+        {
+            "question": "What year was the anime released?",
+            "difficulty": "medium",
+            "1": "2008",
+            "2": "2009",
+            "3": "2010",
+            "4": "2011",
+            "answer": "2010"
+        },
+        {
+            "question": "When is Sora's birthday?",
+            "difficulty": "medium",
+            "1": "Febuary 5th",
+            "2": "May 9th",
+            "3": "December 23rd",
+            "4": "September 1st",
+            "answer": "February 5th"
+        },
+        {
+            "question": "When is Akira's birthday? Hint. Akira and Kazuha have the same birthday.",
+            "difficulty": "medium",
+            "1": "August 8th",
+            "2": "September 25th",
+            "3": "November 1st",
+            "4": "August 3rd",
+            "answer": "August 3rd"
+        },
+        {
+            "question": "When is Nao's birthday? Hint. Nao and Ryouhei have the same birthday",
+            "difficulty": "hard",
+            "1": "Febuary 5th",
+            "2": "March 15th",
+            "3": "June 11th",
+            "4": "October 7th",
+            "answer": "October 7th"
+        },
+        {
+            "question": "When is Ryouhei's birthday? Hint. Nao and Ryouhei have the exact same birthday.",
+            "difficulty": "hard",
+            "1": "Febuary 5th",
+            "2": "July 4th",
+            "3": "October 7th",
+            "4": "December 1st",
+            "answer": "October 7th"
+        },
+        {
+            "question": "When is Haru's birthday?",
+            "difficulty": "medium",
+            "1": "Febuary 1st",
+            "2": "April 1st",
+            "3": "Febuary 5th",
+            "4": "January 11th",
+            "answer": "Febuary 5th"
+        },
+        {
+            "question": "When is Kazuha's birthday? Hint. Akira and Kazuha have the same birthday.",
+            "difficulty": "medium",
+            "1": "August 3rd",
+            "2": "January 1st",
+            "3": "November 1st",
+            "4": "Febuary 29th",
+            "answer": "August 3rd"
+        },
+        {
+            "question": "When is Class Rep's birthday?",
+            "difficulty": "hard",
+            "1": "It is not stated",
+            "2": "June 1",
+            "3": "June 14th",
+            "4": "April 11th",
+            "answer": "June 1"
+        },
+        {
+            "question": "When is Yahiro's birthday?",
+            "difficulty": "hard",
+            "1": "January 9th",
+            "2": "April 25th",
+            "3": "Setember 11th",
+            "4": "January 10th",
+            "answer": "January 10th"
+        },
+        {
+            "question": "How long has the English translation project for the VN gone on?",
+            "difficulty": "medium",
+            "1": "1 year",
+            "2": "5 years",
+            "3": "Over a decade",
+            "4": "8 years",
+            "answer": "Over a decade"
+        },
+        {
+            "question": "What was the company that made the Yosuga no Sora VN?",
+            "difficulty": "easy",
+            "1": "Sphere",
+            "2": "Madbox",
+            "3": "Eight Bit",
+            "4": "Nintendo",
+            "answer": "Sphere"
+        },
+        {
+            "question": "What is the name of the orange cat that often appears in the series?",
+            "difficulty": "medium",
+            "1": "Master",
+            "2": "Mr. whiskers",
+            "3": "Shishou",
+            "4": "A name is never given",
+            "answer": "shishou"
+        },
+        {
+            "question": "What is the name of the lake that Sora almost drowns in?",
+            "difficulty": "hard",
+            "1": "Lake Hakone",
+            "2": "Lake Yokohama",
+            "3": "Lake of the goddess",
+            "4": "None of the above",
+            "answer": "Lake Hakone "
+        },
+        {
+            "question": "Who raped Haru?",
+            "difficulty": "easy",
+            "1": "Sora",
+            "2": "Nao",
+            "3": "Ryouhei",
+            "4": "Motoka",
+            "answer": "Nao"
+        },
+        {
+            "question": "Why did Sora and Haru's parents die?",
+            "difficulty": "easy",
+            "1": "Drug overdose",
+            "2": "Mysteriously disapeared",
+            "3": "Car accident",
+            "4": "Drowning",
+            "answer": "car accident"
+        },
+        {
+            "question": "Which of these girls has black hair?",
+            "difficulty": "easy",
+            "1": "Nao",
+            "2": "Akira",
+            "3": "Motoka",
+            "4": "Yahiro",
+            "answer": "Nao"
+        },
+        {
+            "question": "Which of these girls has red hair?",
+            "difficulty": "easy",
+            "1": "Akira",
+            "2": "Motoka",
+            "3": "Kazuha",
+            "4": "All of the above",
+            "answer": "Motoka"
+        },
+        {
+            "question": "Which of these girls has brown hair?",
+            "difficulty": "easy",
+            "1": "Motoka",
+            "2": "Nao",
+            "3": "Sora",
+            "4": "Akira",
+            "answer": "Akira"
+        },
+        {
+            "question": "Where does Yosuga no Sora take place?",
+            "difficulty": "easy",
+            "1": "Tokyo",
+            "2": "Rural Japan",
+            "3": "Finland",
+            "4": "Another planet",
+            "answer": "Rural Japan"
+        },
+        {
+            "question": "What instrument does Kazuha play?",
+            "difficulty": "medium",
+            "1": "Violin",
+            "2": "Viola",
+            "3": "Piano",
+            "4": "She doesn't play an instrument",
+            "answer": "Viola"
+        },
+        {
+            "question": "What does Sora always carry with her?",
+            "difficulty": "easy",
+            "1": "A necklace to remind her of her mother",
+            "2": "A purse",
+            "3": "A stuffed bunny",
+            "4": "A chess piece",
+            "answer": "A stuffed bunny"
+        },
+        {
+            "question": "How many volumes does the YnS manga have?",
+            "difficulty": "hard",
+            "1": "One",
+            "2": "Two",
+            "3": "Three",
+            "4": "Four",
+            "answer": "Two"
+        },
+        {
+            "question": "How many chapters does the YnS manga have?",
+            "difficulty": "hard",
+            "1": "5",
+            "2": "10",
+            "3": "14",
+            "4": "20",
+            "answer": "14"
+        },
+        {
+            "question": "What occupation does Motoka hold?",
+            "difficulty": "easy",
+            "1": "Nurse",
+            "2": "Teacher",
+            "3": "Prostitute",
+            "4": "Maid",
+            "answer": "Maid"
+        },
+        {
+            "question": "Who catches Sora and Haru having sex?",
+            "difficulty": "easy",
+            "1": "Kazuha and Akira",
+            "2": "Ryouhei",
+            "3": "Their parents",
+            "4": "Kozue and Nao",
+            "answer": "Kozue and Nao"
+        },
+        {
+            "question": "What are the 2 new routes in Haruka na Sora?",
+            "difficulty": "medium",
+            "1": "Sora and Kozue",
+            "2": "Sora and Yahiro",
+            "3": "Yahiro and Kozue",
+            "4": "Ryouhei and Haru",
+            "answer": "Yahiro and Kozue"
+        },
+        {
+            "question": "Who helped Haru look for Sora when she went missing in the anime?",
+            "difficulty": "medium",
+            "1": "Nao",
+            "2": "All of the main cast",
+            "3": "Akira",
+            "4": "He was on his own",
+            "answer": "Nao"
+        },
+        {
+            "question": "Who helped Haru look for Sora when she was missing in the manga?",
+            "difficulty": "hard",
+            "1": "Nao",
+            "2": "All of the main cast",
+            "3": "Akira",
+            "4": "Ryouhei",
+            "answer": "All of the main cast"
+        },
+        {
+            "question": "How large is the Yosuga no Sora chinese community?",
+            "difficulty": "hard",
+            "1": "100 members",
+            "2": "100k members",
+            "3": "400k members",
+            "4": "1 million members",
+            "answer": "400k members"
+        },
+        {
+            "question": "How did Sora and Haru survive drowning?",
+            "difficulty": "hard",
+            "1": "Haru saved them",
+            "2": "Akira saved them",
+            "3": "Nao saved them",
+            "4": "Sora saved them",
+            "answer": "Sora saved them"
+        },
+        {
+            "question": "Where did Sora try to run away to with Haru in the manga?",
+            "difficulty": "hard",
+            "1": "Tokoyo",
+            "2": "Norway",
+            "3": "Hazumi-Hazumi",
+            "4": "No where in particular",
+            "answer": "Hazumi-Hazumi"
+        },
+        {
+            "question": "Who did Haru end up with in the manga?",
+            "difficulty": "medium",
+            "1": "No one",
+            "2": "Sora",
+            "3": "There are several different endings",
+            "4": "Akira",
+            "answer": "Sora"
+        },
+        {
+            "question": "Which girl has the smallest boobs?",
+            "difficulty": "medium",
+            "1": "Akira",
+            "2": "Nao",
+            "3": "Kazuha",
+            "4": "Sora",
+            "answer": "Sora"
+        },
+        {
+            "question": "Which girl wears glasses?",
+            "difficulty": "easy",
+            "1": "Kazuha",
+            "2": "Class rep",
+            "3": "Nao",
+            "4": "Sora",
+            "answer": "Nao"
+        },
+        {
+            "question": "Which girl is the shortest?",
+            "difficulty": "medium",
+            "1": "Sora",
+            "2": "Akira",
+            "3": "Class rep",
+            "4": "Yahiro",
+            "answer": "Sora"
+        },
+        {
+            "question": "Which girl is the tallest?",
+            "difficulty": "hard",
+            "1": "Motoka",
+            "2": "Sora",
+            "3": "Kazuha",
+            "4": "Yahiro",
+            "answer": "Yahiro"
+        },
+        {
+            "question": "Why can't Haru swim?",
+            "difficulty": "m",
+            "1": "He just never learned",
+            "2": "He is traumatised by nearly drowning when he was younger",
+            "3": "Nao sabotaged his lessons",
+            "4": "He can swim",
+            "answer": "He is traumatised by nearly drowning when he was younger"
+        },
+        {
+            "question": "When did Kozue fall in love with Haru?",
+            "difficulty": "hard",
+            "1": "When they were kids",
+            "2": "First sight when Haru returned",
+            "3": "During his time at school",
+            "4": "After seeing him and Sora having sex",
+            "answer": "First sight when Haru returned"
+        },
+        {
+            "question": "How did Kozue react to catching Haru and Sora in the manga?",
+            "difficulty": "hard",
+            "1": "Horrified",
+            "2": "Turned on",
+            "3": "Jealous",
+            "4": "Uncomfortable but accepting",
+            "answer": "Uncomfortable but accepting"
+        },
+        {
+            "question": "What role does Motoka play in the manga?",
+            "difficulty": "hard",
+            "1": "Main character",
+            "2": "Side character",
+            "3": "Cameo",
+            "4": "She isn't in the manga",
+            "answer": "She isn't in the manga"
+        },
+        {
+            "question": "Why did Haru slap Sora in the anime?",
+            "difficulty": "easy",
+            "1": "There was a misquito on her face",
+            "2": "She suggested an abortion",
+            "3": "She insulted him",
+            "4": "She cheated on him",
+            "answer": "She suggested an abortion"
+        },
+        {
+            "question": "Why did Sora slap Haru in the anime?",
+            "difficulty": "easy",
+            "1": "There was a a misquito on his face",
+            "2": "He cheated on her",
+            "3": "He was being an idiot",
+            "4": "She never slapped him",
+            "answer": "There was a misquito on his face"
+        },
+        {
+            "question": "What is Sora's favourite meal?",
+            "difficulty": "medium",
+            "1": "Ice cream",
+            "2": "Shushi",
+            "3": "Ramen",
+            "4": "Curry",
+            "answer": "Curry"
+        },
+        {
+            "question": "Which character did Haru marry at the end of the anime?",
+            "difficulty": "medium",
+            "1": "Motoka",
+            "2": "Nao",
+            "3": "Sora",
+            "4": "No one",
+            "answer": "Motoka"
+        },
+        {
+            "question": "What is the runtime of Yosuga no Sora?",
+            "difficulty": "hard",
+            "1": "103 minutes",
+            "2": "212 minutes",
+            "3": "909 minutes",
+            "4": "300 minutes",
+            "answer": "300 minutes"
+        },
+        {
+            "question": "Which episodes comprise Sora's route?",
+            "difficulty": "medium",
+            "1": "One, two, three, four",
+            "2": "One, seven, ten, eleven, twelve",
+            "3": "Ten, eleven, twelve",
+            "4": "All of season 2",
+            "answer": "One, seven, ten, eleven, twelve"
+        },
+        {
+            "question": "Which episodes comprise Nao's route?",
+            "difficulty": "medium",
+            "1": "One, two, three, four",
+            "2": "One, four, five",
+            "3": "One, seven, eight, nine",
+            "4": "One, seven, ten, eleven, twelve",
+            "answer": "One, seven, eight, nine"
+        },
+        {
+            "question": "Which episodes Kazuha's route?",
+            "difficulty": "medium",
+            "1": "One, two, three, four",
+            "2": "Two, five, six",
+            "3": "Nine, ten, eleven, twelve",
+            "4": "One, seven, ten, eleven, twelve",
+            "answer": "One, two, three, four"
+        },
+        {
+            "question": "Which episode's comprise Akira's route?",
+            "difficulty": "medium",
+            "1": "One, two, five, six",
+            "2": "One, two, three, four",
+            "3": "Seven, eight, nine",
+            "4": "Three, Four",
+            "answer": "One, two, five, six"
+        },
+        {
+            "question": "Which episodes Comprise Motoka's route?",
+            "difficulty": "easy",
+            "1": "She doesn't appear in the anime",
+            "2": "All of them but only in the ending omakes",
+            "3": "13, 14, 15, 16",
+            "4": "7, 8, 9",
+            "answer": "All of them, but only in the ending omakes"
+        },
+        {
+            "question": "Which of these is used as a nickname for Akira?",
+            "difficulty": "medium",
+            "1": "Aki",
+            "2": "Amatsume",
+            "3": "Nyoume",
+            "4": "She is only ever referred to as Akira",
+            "answer": "Nyome"
+        },
+        {
+            "question": "Who does the cat belong to?",
+            "difficulty": "easy",
+            "1": "Sora",
+            "2": "Akira",
+            "3": "Nao",
+            "4": "Kazuha",
+            "answer": "Akira"
+        },
+        {
+            "question": "Who shows Haru the way to school in the VN?",
+            "difficulty": "medium",
+            "1": "Nao",
+            "2": "Akira",
+            "3": "Kazuha",
+            "4": "He has to figure it out himself",
+            "answer": "Nao"
+        },
+        {
+            "question": "Why did Nao rape Haru?",
+            "difficulty": "medium",
+            "1": "Pure lust",
+            "2": "Stress due to her parents fighting",
+            "3": "To assert dominance",
+            "4": "To upset Sora",
+            "answer": "Stress due to her parents fighting"
+        },
+        {
+            "question": "Who told Sora the legendary story about the lake that inspired Sora to commit Suicide?",
+            "difficulty": "easy",
+            "1": "Nao",
+            "2": "Akira",
+            "3": "Kazuha",
+            "4": "Class rep",
+            "answer": "Akira"
+        },
+        {
+            "question": "What is the name of the goddess of lake behind Akira's shrine?",
+            "difficulty": "medium",
+            "1": "Sayorihime-sama",
+            "2": "Kasugano",
+            "3": "Tet",
+            "4": "Aqua",
+            "answer": "Sayorihime-sama"
+        },
+        {
+            "question": "What does Yosuga no Sora mean?",
+            "difficulty": "hard",
+            "1": "Incest is wincest",
+            "2": "Sky of connections",
+            "3": "Under the endless sky",
+            "4": "The story of a girl named Sora",
+            "answer": "Sky of connections"
+        },
+        {
+            "question": "Who else plays Viola besides Kazuha?",
+            "difficulty": "medium",
+            "1": "Akira",
+            "2": "Nao",
+            "3": "Kazuha's Father",
+            "4": "Kazuha's Mother",
+            "answer": "Kazuha's Mother"
+        },
+        {
+            "question": "What position was Nao in when she raped Haru?",
+            "difficulty": "medium",
+            "1": "Missionary",
+            "2": "cowgirl",
+            "3": "Reverse cowgirl",
+            "4": "T-POSE",
+            "answer": "Cowgirl"
+        },
+        {
+            "question": "The director of the Yosuga no Sora anime also directed:",
+            "difficulty": "hard",
+            "1": "School days",
+            "2": "Aki Sora",
+            "3": "No Game No Life",
+            "4": "Mahouka",
+            "answer": "Aki Sora"
+        },
+        {
+            "question": "Who is The Catcher-Killer?",
+            "difficulty": "hard",
+            "1": "Akira",
+            "2": "Ryouhei",
+            "3": "Kazuha",
+            "4": "Kozue",
+            "answer": "Akira"
+        },
+        {
+            "question": "What is Akira favorite type of bread?",
+            "difficulty": "hard",
+            "1": "Pumpkin",
+            "2": "Rye",
+            "3": "Cream Bread",
+            "4": "Akira hates bread",
+            "answer": "Cream Bread"
+        },
+        {
+            "question": "Who do Haruka and Sora go to live with at the end Sora's Route?",
+            "difficulty": "medium",
+            "1": "Their grandparents",
+            "2": "A friend of their parents",
+            "3": "They lived  by themselves",
+            "4": "Motoka",
+            "answer": "A friend of their parents"
+        },
+        {
+            "question": "What is the route order in the anime?",
+            "difficulty": "medium",
+            "1": "Common, Akira, Kazuha, Motoka, Nao and Sora",
+            "2": "Common, Akira, Kazuha, Nao and Sora",
+            "3": "Common, Kazuha, Akira, Motoka, Nao and Sora",
+            "4": "Common, Kazuha, Akira, Nao and Sora",
+            "answer": "Common, Kazuha, Akira, Nao and Sora"
+        },
+        {
+            "question": "In the anime, which girl has the most sex scenes?",
+            "difficulty": "hard",
+            "1": "Sora",
+            "2": "Akira",
+            "3": "Nao",
+            "4": "Motoka",
+            "answer": "Motoka"
+        },
+        {
+            "question": "How many possible choices exist in the Yosuga no Sora visual novel?",
+            "difficulty": "medium",
+            "1": "Three",
+            "2": "Four",
+            "3": "Five",
+            "4": "One",
+            "answer": "Four"
+        },
+        {
+            "question": "What does 'Shishou' mean in English?",
+            "difficulty": "medium",
+            "1": "Whiskers",
+            "2": "Master",
+            "3": "Love",
+            "4": "Fluffy",
+            "answer": "Master"
+        },
+        {
+            "question": "Who is the first person (Besides Sora) to talk to Haruka in the visual novel?",
+            "difficulty": "medium",
+            "1": "Kazuha",
+            "2": "Nao",
+            "3": "Kozue",
+            "4": "Akira",
+            "answer": "Nao"
+        },
+        {
+            "question": "Which girl is a member of the swim club?",
+            "difficulty": "medium",
+            "1": "Akira",
+            "3": "Nao",
+            "4": "Kozue",
+            "answer": "Nao"
+        },
+        {   
+            "question": "What does Haruka offer Sora as a snack on their train ride to the country?",
+            "difficulty": "easy",
+            "1": "Chocolate",
+            "2": "Pocky",
+            "3": "It isn't stated",
+            "4": "Dick",
+            "answer": "Pocky"
+        },
+        {
+            "question": "Who was considered the smartest during the study session at Akira's?",
+            "difficulty": "hard",
+            "1": "Sora",
+            "2": "Class Rep",
+            "3": "Nao",
+            "4": "Kazuha",
+            "answer": "Sora"
+        },
+        {
+            "question": "What is Kazuha suggestion to Akira on 'How to become Smart'?",
+            "difficulty": "medium",
+            "1": "Eat right",
+            "2": "Study",
+            "3": "Stop sleeping in class",
+            "4": "Stop drawing in her notes",
+            "answer": "Stop drawing in her notes"
+        },
+        {
+            "question": "Which character has a yukata sprite?",
+            "difficulty": "easy",
+            "1": "Akira",
+            "2": "Sora",
+            "3": "Kazuha",
+            "4": "Ryouhei",
+            "answer": "Kazuha"
+        },
+        {
+            "question": "Who takes Sora's measurements in Sora's route?",
+            "difficulty": "easy",
+            "1": "Akira",
+            "2": "Nao",
+            "3": "Haruka",
+            "4": "Herself",
+            "answer": "Haruka"
+        },
+        {
+            "question": "Who helps Sora put on her uniform in Akira's route?",
+            "difficulty": "easy",
+            "1": "Haru",
+            "2": "Nao",
+            "3": "Class Rep",
+            "4": "Akira",
+            "answer": "Akira"
+        },
+        {
+            "question": "Who was the voice actress for Sora in the anime?",
+            "difficulty": "hard",
+            "1": "Hiroko Taguchi",
+            "2": "Yuka Inokuchi",
+            "3": "Sai Ushirono ",
+            "4": "Haruka Shiranami",
+            "answer": "Hiroko Taguchi"
+        },
+        {
+            "question": "Who was the voice actress for Sora in the Visual Novel?",
+            "difficulty": "hard",
+            "1": "Hiroko Taguchi",
+            "2": "Yuka Inokuchi",
+            "3": "Sai Ushirono ",
+            "4": "Haruka Shiranami",
+            "answer": "Hiroko Taguchi"
+        },
+        {
+            "question": "Who was the voice actress for Akira in the visual novel?",
+            "difficulty": "hard",
+            "1": "Mana Tsukishiro",
+            "2": "Kayo Sakata",
+            "3": "Hiroko Taguchi",
+            "4": "Yuko Natsuyoshi",
+            "answer": "Mana Tsukishiro"
+        },
+        {
+            "question": "Who was the voice actress for Akira in the anime?",
+            "difficulty": "hard",
+            "1": "Mana Tsukishiro",
+            "2": "Kayo Sakata",
+            "3": "Hiroko Taguchi",
+            "4": "Yuko Natsuyoshi",
+            "answer": "Kayo Sakata"
+        },
+        {
+            "question": "Who was the voice actress for Nao in the anime?",
+            "difficulty": "hard",
+            "1": "Kayo Sakata",
+            "2": "Yuka Inokuchi",
+            "3": "Mana Tsukishiro ",
+            "4": "Ryoko Ono",
+            "answer": "Yuka Inokuchi"
+        },
+        {
+            "question": "Who was the voice actress for Nao in the VN?",
+            "difficulty": "hard",
+            "1": "Kayo Sakata",
+            "2": "Yuka Inokuchi",
+            "3": "Mana Tsukishiro ",
+            "4": "Ryoko Ono",
+            "answer": "Yuka Inokuchi"
+        },
+        {
+            "question": "Who was the voice actress for Kazuha in the VN?",
+            "difficulty": "hard",
+            "1": "Yuka Inokuchi",
+            "2": "Mana Tsukishiro",
+            "3": "Ryoko Ono",
+            "4": "Tomori Kusunoki",
+            "answer": "Ryoko Ono"
+        },
+        {
+            "question": "Who was the voice actress for Kazuha in the anime?",
+            "difficulty": "hard",
+            "1": "Yuka Inokuchi",
+            "2": "Hiroko Taguchi",
+            "3": "Tomori Kusunoki",
+            "4": "Ryoko Ono",
+            "answer": "Ryoko Ono"
+        },
+        {
+            "question": "Who was the voice actress for Kozue in the anime?",
+            "difficulty": "hard",
+            "1": "Yukari Minegishi ",
+            "2": "Ryoko Ono",
+            "3": "Tae Okajima",
+            "4": "Uncredited voice actress",
+            "answer": "Yukari Minegishi"
+        },
+        {
+            "question": "Who was the voice actress for Kozue in the VN?",
+            "difficulty": "hard",
+            "1": "Yukari Minegishi ",
+            "2": "Ryoko Ono",
+            "3": "Tae Okajima",
+            "4": "Uncredited voice actress",
+            "answer": "Yukari Minegishi"
+        },
+        {
+            "question": "Who was the voice actress for Motoka in the anime?",
+            "difficulty": "hard",
+            "1": "Tae Okajima",
+            "2": "Ryoko Tanaka",
+            "3": "Sai Ushirono",
+            "4": "Hiroko Taguchi",
+            "answer": "Tae Okajima"
+        },
+        {
+            "question": "Who was the voice actress for Motoka in the VN?",
+            "difficulty": "hard",
+            "1": "Tae Okajima",
+            "2": "Ryoko Tanaka",
+            "3": "Sai Ushirono",
+            "4": "Motoka does not appear in the anime",
+            "answer": ""
+        },
+        {
+            "question": "Who was the voice actress for Yahiro in the anime?",
+            "difficulty": "hard,",
+            "1": "Tae Okajima",
+            "2": "Ryoko Tanaka",
+            "3": "Sai Ushirono",
+            "4": "Hiroko Taguchi",
+            "answer": "Ryoko Tanaka"
+        },
+        {
+            "question": "Who was the voice acress for Yahiro in the VN?",
+            "difficulty": "hard",
+            "1": "Ai Kayano",
+            "2": "Shizuru Nakatsu",
+            "3": "Ryoko Tanaka",
+            "4": "Yahiro does not appear in the VN",
+            "answer": "Ryoko Tanaka"
+        },
+        {
+            "question": "Who was the voice actor for Ryouhei in the VN?",
+            "Difficulty": "hard",
+            "1": "Yoshitsugu Matsuoka",
+            "2": "Sai Ushirono ",
+            "3": "Hiro Shimono",
+            "4": "Takurou Nakakuni",
+            "answer": "Sai Ushirono"
+        },
+        {
+            "question": "Who was the voice actor for Ryouhei in the anime?",
+            "difficulty": "hard",
+            "1": "Yoshitsugu Matsuoka",
+            "2": "Sai Ushirono ",
+            "3": "Hiro Shimono",
+            "4": "Takurou Nakakuni",
+            "answer": "Takurou Nakakuni"
+        },
+        {
+            "question": "Who was the voice actor for Haru in the VN?",
+            "difficulty": "hard",
+            "1": "Takurou Nakakuni ",
+            "2": "Sai Ushirono",
+            "3": "Hiroko Taguchi",
+            "4": "Haru is not voiced in the VN",
+            "answer": ""
+        },
+        {
+            "question": "Who was the primary voice actor for Haru in the anime?",
+            "difficulty": "hard",
+            "1": "Hiro Shimono",
+            "2": "Sai Ushirono",
+            "3": "Hiroko Taguchi",
+            "4": "Megumi Matsumoto",
+            "answer": "Hiro Shimono"
+        },
+        {
+            "question": "Who voiced child Haru in the anime?",
+            "difficulty": "hard",
+            "1": "Hiro Shimono",
+            "2": "Sai Ushirono",
+            "3": "Hiroko Taguchi",
+            "4": "Megumi Matsumoto",
+            "answer": "Megumi Matsumoto"
+        },
+        {
+            "question": "When was the Yosuga no Sora Visual Novel first released?",
+            "difficulty": "hard",
+            "1": "July 27th 2007",
+            "2": "May 1st 2007",
+            "3": "October 8th 2010",
+            "4": "December 5th 2008",
+            "answer": "December 5th 2008"
+        },
+        {
+            "question": "When did the Yosuga no Sora Anime first premier",
+            "difficulty": "hard",
+            "1": "October 8th 2010",
+            "2": "October 4th 2010",
+            "3": "December 5th 2008",
+            "4": "June 15th 2012",
+            "answer": "October 4th 2010"
+        },
+        {
+            "question": "When was the original run for the Yosuga no Sora manga?",
+            "difficulty": "hard",
+            "1": "December 5th 2008-April 11th 2009",
+            "2": "February 2nd 2012-Ongoing",
+            "3": "Febuary 3rd 2012-Ongoing",
+            "4": "May 26th 2010-December 25th 2010",
+            "answer": "May 26th 2010-December 25th 2010"
+        },
+        {
+            "question": "How many routes are in the Visual Novel?",
+            "difficulty": "easy",
+            "1": "3",
+            "2": "4",
+            "3": "5",
+            "4": "6",
+            "answer": "5"
+        },
+        {
+            "question": "How many routes are in the anime?",
+            "difficulty": "Medium",
+            "1": "3",
+            "2": "4",
+            "3": "5",
+            "4": "6",
+            "answer": "5"
+        },
+        {
+            "question": "How many routes are in Haruka na Sora?",
+            "difficulty": "easy",
+            "1": "2",
+            "2": "3",
+            "3": "5",
+            "4": "10",
+            "answer": "3"
+        },
+        {
+            "question": "Which of these is not found in the Yosuga no Sora anime soundtrack?",
+            "difficulty": "medium",
+            "1": "Kioku ",
+            "2": "Old memory",
+            "3": "Before it's too late",
+            "4": "Dearly Beloved",
+            "answer": ""
+        },
+        {
+            "question": "Who is the best character in Yosuga no Sora?",
+            "difficulty": "easy",
+            "1": "Yahiro",
+            "2": "Yahiro",
+            "3": "Yahiro",
+            "4": "ME",
+            "answer": "Akira"
+        },
+        {
+            "question": "Which girl is Sora closest to?",
+            "difficulty": "medium",
+            "1": "Akira",
+            "2": "Nao",
+            "3": "Kazuha",
+            "4": "Class Rep",
+            "answer": "Akira"
+        },
+        {
+            "question": "What does Nao's surname mean?",
+            "difficulty": "hard",
+            "1": "'Rely on, be dependent upon' (依) (yori) and 'princess' (姫) (hime).",
+            "2": "'Water' (依) (yori) 'edge' (姫) (hime)",
+            "3": "'Water's edge' (渚) (Migiwa)",
+            "4": "'Sky' (穹) (Amatsume)",
+            "answer": "'Rely on, be dependent upon' (依) (yori) and 'princess' (姫) (hime)."
+        },
+        {
+            "question": "What type of phone does Sora have?",
+            "difficulty": "hard",
+            "1": "Samsung 931SC",
+            "2": "Nokia 3310",
+            "3": "Original Iphone",
+            "4": "She does not own a phone",
+            "answer": "Samsung 931SC"
+        },
+        {
+            "question": "How tall is Kazuha?",
+            "difficulty": "hard",
+            "1": "160 cm",
+            "2": "162 cm",
+            "3": "170 cm",
+            "4": "164 cm",
+            "answer": "164 cm"
+        },
+        {
+            "question": "Who owns Shishou?",
+            "difficulty": "easy",
+            "1": "Sora",
+            "2": "Akira",
+            "3": "Kazuha",
+            "4": "He is a stray cat",
+            "answer": "Akira"
+        }
+    ]
+}
+
